@@ -1,0 +1,6 @@
+# Virtual Environment
+_pycache_/
+env/
+lib/
+include/
+Scripts/
